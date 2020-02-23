@@ -1,2 +1,2 @@
 # hello-world
-first repository creation
+hi there i am not an alien! duh...
